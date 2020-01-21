@@ -1,7 +1,7 @@
 # DropDownMenu
 
 ## Purpose
-_TODO_ is repo for display the items in the form of drop down menu and select one of them. Once you tap on the item , menu items dismiss with animation.
+_DropDownMenu_ is repo for display the items in the form of drop down menu and select one of them. Once you tap on the item , menu items dismiss with animation.
 
 ## Authors
 - Tushar Jaunjalkar
